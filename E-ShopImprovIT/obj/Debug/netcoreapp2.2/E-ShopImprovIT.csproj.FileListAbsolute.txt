@@ -1,0 +1,11 @@
+C:\Users\aggelos\source\repos\E-ShopImprovIT\obj\Debug\netcoreapp2.2\E-ShopImprovIT.csprojAssemblyReference.cache
+C:\Users\aggelos\source\repos\E-ShopImprovIT\obj\Debug\netcoreapp2.2\E-ShopImprovIT.csproj.CoreCompileInputs.cache
+C:\Users\aggelos\source\repos\E-ShopImprovIT\obj\Debug\netcoreapp2.2\E-ShopImprovIT.AssemblyInfoInputs.cache
+C:\Users\aggelos\source\repos\E-ShopImprovIT\obj\Debug\netcoreapp2.2\E-ShopImprovIT.AssemblyInfo.cs
+C:\Users\aggelos\source\repos\E-ShopImprovIT\bin\Debug\netcoreapp2.2\E-ShopImprovIT.deps.json
+C:\Users\aggelos\source\repos\E-ShopImprovIT\bin\Debug\netcoreapp2.2\E-ShopImprovIT.runtimeconfig.json
+C:\Users\aggelos\source\repos\E-ShopImprovIT\bin\Debug\netcoreapp2.2\E-ShopImprovIT.runtimeconfig.dev.json
+C:\Users\aggelos\source\repos\E-ShopImprovIT\bin\Debug\netcoreapp2.2\E-ShopImprovIT.dll
+C:\Users\aggelos\source\repos\E-ShopImprovIT\bin\Debug\netcoreapp2.2\E-ShopImprovIT.pdb
+C:\Users\aggelos\source\repos\E-ShopImprovIT\obj\Debug\netcoreapp2.2\E-ShopImprovIT.dll
+C:\Users\aggelos\source\repos\E-ShopImprovIT\obj\Debug\netcoreapp2.2\E-ShopImprovIT.pdb
